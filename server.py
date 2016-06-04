@@ -49,7 +49,7 @@ BERNIE_COMMENTS = {
     8: "The rights of women, minorities, and immigrants are on the line this election, but voting my conscience matters more #writinginbernie",
     9: "Bernie has shattered all records for small campaign donations because he is for THE PEOPLE. Proud to say I just sent him the $27 I was gonna use to buy weed this month!",
     10: "Bernie voted against a war 15 years ago. That's all the foreign policy experience I need in my future president!",
-    11: "Hillary only voted with Bernie 98 percent of the time while they were in Congress together. I won't cast my vote for a neocon witch! #writinginbernie",
+    11: "Hillary only voted with Bernie 98 percent of the time while they were in Congress together. I won't cast my vote for a neocon witch! #bernieorbust",
     12: "Vote for a man who spent his entire political career representing a state that is 75 percent forest #imwithhim",
     13: "I'm voting for Bernie since he's the candidate I want to get an artisanally-crafted, microbrewed beer with.",
     14: "You say you're making a valid criticism of Bernie's policy proposals, but really we all know you're in the pocket of big banks.",
