@@ -1,0 +1,37 @@
+body {
+    background: url("/static/flag.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    font-family: Helvetica;
+    font-size: 3em;
+    text-align: center;
+    overflow: auto;
+}
+
+h1 {
+    background-color: transparent;
+    font-size: 3em;
+}
+
+button {
+    background-color: transparent;
+    border: solid white .1em;
+    padding-left: .5em;
+    padding-right: .5em;
+    padding-top: .1em;
+    padding-bottom: .1em;
+    margin: .3em;
+}
+
+a, a:link, a:visited, a:hover, a:active  {
+    color: white;
+    font-size: .7em;
+    padding: 0;
+}
+
+#comment {
+    font-size: 1.7em;
+}
