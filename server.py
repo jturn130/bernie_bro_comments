@@ -6,6 +6,8 @@ from jinja2 import StrictUndefined
 
 import random
 
+import os
+
 app = Flask(__name__)
 
 # Required to use Flask sessions and the debug toolbar
@@ -59,4 +61,6 @@ BERNIE_COMMENTS = {
 ################################################################################
 if __name__ == "__main__":
 
-    app.run()
+    PORT = int(os.environ.get("PORT", 5000))
+
+    app.run(debug=True, host="0.0.0.0", port=PORT)
